@@ -32,7 +32,7 @@ The application was developed using Expo environment for rapid development and t
 
 ## Get started
 
-1. 1. Clone repository
+1. Clone repository
 
 ```bash
    git clone https://github.com/jovana-crn/mobilno-projekat.git
