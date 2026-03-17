@@ -27,7 +27,6 @@ The application was developed using Expo environment for rapid development and t
 - **JavaScript**
 - **Context API**
 - **Expo Router (file-based routing)**
-- **ESLint**
 
 ---
 
